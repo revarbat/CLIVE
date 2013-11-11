@@ -1,0 +1,22 @@
+This directory contains the models needed to print the laser turret.
+
+Turret.skp                 The Sketchup source for the STL models below.
+
+RAMPSBox.stl               Box to hold a RAMPS turret controller board.
+RAMPSBoxLid.stl            Lid for the RAMPS Box.
+
+TurretCaseBottom.stl       Azimuth Axis base.
+TurretAltBottom.stl        Altitude Axis base.
+TurretCaseTop.stl          Top for Alt and Az axes. (2x)
+TurretDriveGear.stl        Stepper motor drive gear. (2x)
+TurretRingGear.stl         Ring gear for Alt and Az axes. (2x)
+
+Turret0.25inRodMount.stl   Optional Alt Axis mount for 1/4" rod.
+TurretPlateMount.stl       Optional Alt Axis mount for Lasever DPSSL bench laser head.
+TurretArmMount.stl         Optional Alt Axis generic arm mount.
+
+TurretTripodMount.stl      Optional Az Axis mount for standard 3/8" Tripod mount.
+Turret20mm8020Mount.stl    Optional Az Axis mount for 20mm Aluminum extrusion.
+Turret40mm8020Mount.stl    Optional Az Axis mount for 40mm Aluminum extrusion.
+Turret26mmPoleMount.stl    Optional Az Axis mount for 26mm pole.
+
